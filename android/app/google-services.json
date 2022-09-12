@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "412434222792",
+    "project_id": "beedelivery-8d874",
+    "storage_bucket": "beedelivery-8d874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412434222792:android:0ca0d0b97c0177b1c79ffd",
+        "android_client_info": {
+          "package_name": "com.beedelivery.beedelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjADG3CZhq-tagiUhtzV50xeGZ2xlTGSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412434222792-s1gbdi0jrodiuh6rqcp301e3575mldl0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beedelivery.beedelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
